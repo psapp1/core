@@ -1,3 +1,11 @@
-djhbjhdsb
-djhbvjhd'
-vhgds
+apiVersion: v1
+kind: Service
+metadata:
+  name: jenkins
+  labels:
+    env: dev
+spec:
+  selector:
+    app: dev
+  type:
+  ports:
