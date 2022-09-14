@@ -9,3 +9,4 @@ spec:
     app: dev
   type:
   ports:
+    targetport: 80
