@@ -7,6 +7,6 @@ metadata:
 spec:
   selector:
     app: dev
-  type:
+  type: NodePort
   ports:
     targetport: 80
