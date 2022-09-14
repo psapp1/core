@@ -1,3 +1,4 @@
-djhbjhdsb
-djhbvjhd'
-vhgds
+apiVersion: v1
+kind: Service
+metadata:
+spec:
